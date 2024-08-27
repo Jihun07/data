@@ -1,6 +1,4 @@
 [
-    { "date": "0103", "subject": "국어", "description": "(테스트용)", "image": "https://placehold.co/600x400" },
-    { "date": "0101", "subject": "국어", "description": "(테스트용)", "image": "https://placehold.co/600x400" },
-    { "date": "1231", "subject": "영어", "description": "(테스트용)", "image": "https://placehold.co/600x400" }
+    { "date": "0905", "subject": "영어", "description": "에세이 쓰기 (사진 화질 좋은거로 바꿀게용..)", "image": "https://drive.google.com/uc?id=1kjX0jgxGWIx0l1rFNdxvOIfwxX-SdaUe" }
     
 ]
