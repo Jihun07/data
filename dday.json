@@ -1,0 +1,11 @@
+[
+    { "date": "240815", "subject": "국어", "description": "문학 분석 발표" },
+    { "date": "240819", "subject": "수학", "description": "기말고사 준비" },
+    { "date": "240820", "subject": "영어", "description": "듣기 평가" },
+    { "date": "240822", "subject": "확통", "description": "문제 풀이 연습" },
+    { "date": "240823", "subject": "물리", "description": "실험 보고서 제출" },
+    { "date": "240825", "subject": "생명", "description": "이론 시험 준비" },
+    { "date": "240827", "subject": "화학", "description": "화학식 암기" },
+    { "date": "240828", "subject": "지구", "description": "지구과학 연습문제" },
+    { "date": "240830", "subject": "일본어", "description": "어휘 시험" }
+]
