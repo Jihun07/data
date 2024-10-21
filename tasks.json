@@ -4,5 +4,10 @@
     { "date": "0913", "subject": "지구과학", "description": "지구의 기후변화 (9/12~9/13)", "image": "https://i.imgur.com/TYImzDB.jpeg" },
     { "date": "0913", "subject": "물리학", "description": "물질의 자성 논술", "image": "https://i.imgur.com/ECl1Vpm.jpeg" },
     { "date": "0924", "subject": "생명과학", "description": "유전 탐구논술 (9/23~9/24)", "image": "https://i.imgur.com/aPcC9rO.jpeg" },
-    { "date": "0926", "subject": "화학", "description": "분자의 구조 (9/26~9/27", "image": "https://i.imgur.com/fvmEfMO.jpeg" }
+    { "date": "0926", "subject": "화학", "description": "분자의 구조 (9/26~9/27)", "image": "https://i.imgur.com/fvmEfMO.jpeg" },
+    { "date": "1024", "subject": "생명과학", "description": "핵형 분석 (10/24~10/25)", "image": "https://i.imgur.com/0AODe0v.jpeg" },
+    { "date": "1025", "subject": "영어", "description": "영어 팝송", "image": "https://demofree.sirv.com/nope-not-here.jpg?w=150" }
+    
+
+    
 ]
