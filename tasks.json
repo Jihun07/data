@@ -6,7 +6,11 @@
     { "date": "0924", "subject": "생명과학", "description": "유전 탐구논술 (9/23~9/24)", "image": "https://i.imgur.com/aPcC9rO.jpeg" },
     { "date": "0926", "subject": "화학", "description": "분자의 구조 (9/26~9/27)", "image": "https://i.imgur.com/fvmEfMO.jpeg" },
     { "date": "1024", "subject": "생명과학", "description": "핵형 분석 (10/24~10/25)", "image": "https://i.imgur.com/0AODe0v.jpeg" },
-    { "date": "1025", "subject": "영어", "description": "영어 팝송", "image": "https://i.imgur.com/nJ68Air.jpeg" }
+    { "date": "1025", "subject": "영어", "description": "영어 팝송", "image": "https://i.imgur.com/nJ68Air.jpeg" },
+    { "date": "1108", "subject": "수학", "description": "탐구 수행(11/8 ~ 11/11)", "image": "https://i.imgur.com/xDpCGbh.jpeg" },
+    { "date": "1104", "subject": "확통", "description": "통계 포스터 제작(11/4)", "image": "https://i.imgur.com/zM7FP8z.jpeg" },
+    { "date": "1101", "subject": "화학", "description": "화학 중화 실험", "image": "https://demofree.sirv.com/nope-not-here.jpg?w=150" }
+    
     
 
     
