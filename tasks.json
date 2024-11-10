@@ -9,7 +9,13 @@
     { "date": "1025", "subject": "영어", "description": "영어 팝송", "image": "https://i.imgur.com/nJ68Air.jpeg" },
     { "date": "1108", "subject": "수학", "description": "탐구 수행(11/8 ~ 11/11)", "image": "https://i.imgur.com/xDpCGbh.jpeg" },
     { "date": "1104", "subject": "확통", "description": "통계 포스터 제작(11/4)", "image": "https://i.imgur.com/zM7FP8z.jpeg" },
-    { "date": "1101", "subject": "화학", "description": "화학 중화 실험", "image": "https://demofree.sirv.com/nope-not-here.jpg?w=150" }
+    { "date": "1101", "subject": "화학", "description": "화학 중화 실험", "image": "https://demofree.sirv.com/nope-not-here.jpg?w=150" },
+    { "date": "1121", "subject": "지구과학", "description": "지구 수행", "image": "https://i.imgur.com/WhJDebe.jpeg" },
+    { "date": "1112", "subject": "국어", "description": "서평쓰기", "image": "https://i.imgur.com/a55u503.jpeg" },
+    { "date": "1112", "subject": "물리학", "description": "논술 수행", "image": "https://i.imgur.com/TW9k65q.jpeg" },
+    { "date": "1122", "subject": "영어", "description": "문법 수행", "image": "https://demofree.sirv.com/nope-not-here.jpg?w=150" },
+    
+    
     
     
 
