@@ -1,20 +1,11 @@
 [
-    { "date": "0906", "subject": "영어", "description": "에세이 쓰기", "image": "https://i.imgur.com/PbOa7ev.jpeg" },
-    { "date": "0910", "subject": "일본어", "description": "영화 활동지 작성", "image": "https://demofree.sirv.com/nope-not-here.jpg?w=150" },
-    { "date": "0913", "subject": "지구과학", "description": "지구의 기후변화 (9/12~9/13)", "image": "https://i.imgur.com/TYImzDB.jpeg" },
-    { "date": "0913", "subject": "물리학", "description": "물질의 자성 논술", "image": "https://i.imgur.com/ECl1Vpm.jpeg" },
-    { "date": "0924", "subject": "생명과학", "description": "유전 탐구논술 (9/23~9/24)", "image": "https://i.imgur.com/aPcC9rO.jpeg" },
-    { "date": "0926", "subject": "화학", "description": "분자의 구조 (9/26~9/27)", "image": "https://i.imgur.com/fvmEfMO.jpeg" },
-    { "date": "1024", "subject": "생명과학", "description": "핵형 분석 (10/24~10/25)", "image": "https://i.imgur.com/0AODe0v.jpeg" },
-    { "date": "1025", "subject": "영어", "description": "영어 팝송", "image": "https://i.imgur.com/nJ68Air.jpeg" },
-    { "date": "1108", "subject": "수학", "description": "탐구 수행(11/8 ~ 11/11)", "image": "https://i.imgur.com/xDpCGbh.jpeg" },
-    { "date": "1104", "subject": "확통", "description": "통계 포스터 제작(11/4)", "image": "https://i.imgur.com/zM7FP8z.jpeg" },
-    { "date": "1101", "subject": "화학", "description": "화학 중화 실험", "image": "https://demofree.sirv.com/nope-not-here.jpg?w=150" },
-    { "date": "1121", "subject": "지구과학", "description": "지구 수행", "image": "https://i.imgur.com/WhJDebe.jpeg" },
-    { "date": "1112", "subject": "국어", "description": "서평쓰기", "image": "https://i.imgur.com/a55u503.jpeg" },
-    { "date": "1112", "subject": "물리학", "description": "논술 수행", "image": "https://i.imgur.com/TW9k65q.jpeg" },
-    { "date": "1122", "subject": "영어", "description": "문법 수행", "image": "https://demofree.sirv.com/nope-not-here.jpg?w=150" },
-    { "date": "1125", "subject": "생명과학", "description": "빈칸완성 OX", "image": "https://i.imgur.com/PfsJ3A9.jpeg" }
+    { "date": "0512", "subject": "물리학2", "description": "독서 수행 평가", "image": "https://i.imgur.com/eXhXMYW.jpeg" },
+    { "date": "0408", "subject": "영독작", "description": "Voca Test (4/8, 6/10)", "image": "https://i.imgur.com/jcGbEBk.jpeg" },
+    { "date": "0401", "subject": "생윤", "description": "수행평가", "image": "https://i.imgur.com/x8fAaRO.jpeg" },
+    { "date": "0403", "subject": "사문", "description": "수행평가", "image": "https://i.imgur.com/cAm0r3k.jpeg" },
+    { "date": "0401", "subject": "스생", "description": "논술형", "image": "https://i.imgur.com/UwJ9LWE.jpeg" }
+    
+    
     
     
     
