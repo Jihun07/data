@@ -1,10 +1,11 @@
 [
-    { "date": "0512", "subject": "물리학2", "description": "독서 수행 평가", "image": "https://i.imgur.com/eXhXMYW.jpeg" },
+    { "date": "0512", "subject": "물리2", "description": "독서 수행 평가", "image": "https://i.imgur.com/eXhXMYW.jpeg" },
     { "date": "0408", "subject": "영독작", "description": "Voca Test (4/8, 6/10)", "image": "https://i.imgur.com/jcGbEBk.jpeg" },
     { "date": "0401", "subject": "생윤", "description": "수행평가", "image": "https://i.imgur.com/x8fAaRO.jpeg" },
     { "date": "0403", "subject": "사문", "description": "수행평가", "image": "https://i.imgur.com/cAm0r3k.jpeg" },
     { "date": "0401", "subject": "스생", "description": "논술형", "image": "https://i.imgur.com/UwJ9LWE.jpeg" },
-    { "date": "0403", "subject": "기하", "description": "수행(3번째 수업 시간)", "image": "https://i.imgur.com/RrdfDcw.jpeg" }
+    { "date": "0403", "subject": "기하", "description": "수행(3번째 수업 시간)", "image": "https://i.imgur.com/RrdfDcw.jpeg" },
+    { "date": "0403", "subject": "생명2", "description": "수행평가", "image": "https://i.imgur.com/U999rCc.jpeg" }
     
     
     
