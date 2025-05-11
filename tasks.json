@@ -7,8 +7,9 @@
     { "date": "0403", "subject": "기하", "description": "수행(3번째 수업 시간)", "image": "https://i.imgur.com/RrdfDcw.jpeg" },
     { "date": "0407", "subject": "생명2", "description": "수행평가", "image": "https://i.imgur.com/U999rCc.jpeg" },
     { "date": "0409", "subject": "사문탐", "description": "수행평가", "image": "" },
-    { "date": "0414", "subject": "정보", "description": "수행평가", "image": "https://i.imgur.com/d9SDkIp.jpeg" }
-    
+    { "date": "0414", "subject": "정보", "description": "수행평가", "image": "https://i.imgur.com/d9SDkIp.jpeg" },
+    { "date": "0512", "subject": "미적분", "description": "수행평가", "image": "https://i.imgur.com/IrNeb3y.jpeg" },
+    { "date": "0513", "subject": "영독작", "description": "에세이(사진이 많아서 반톡에 올렸습니다!)", "image": "https://i.imgur.com/IrNeb3y.jpeg" }
     
     
     
