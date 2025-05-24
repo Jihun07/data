@@ -9,7 +9,16 @@
     { "date": "0409", "subject": "사문탐", "description": "수행평가", "image": "" },
     { "date": "0414", "subject": "정보", "description": "수행평가", "image": "https://i.imgur.com/d9SDkIp.jpeg" },
     { "date": "0512", "subject": "미적분", "description": "수행평가", "image": "https://i.imgur.com/IrNeb3y.jpeg" },
-    { "date": "0513", "subject": "영독작", "description": "에세이(사진이 많아서 반톡에 올렸습니다!)", "image": "" }
+    { "date": "0513", "subject": "영독작", "description": "에세이(사진이 많아서 반톡에 올렸습니다!)", "image": "" },
+    { "date": "0527", "subject": "영독작", "description": "제시문 기반 글쓰기", "image": "https://i.imgur.com/zyFQ7rP.jpeg" },
+    { "date": "0610", "subject": "영독작", "description": "2차 어휘평가", "image": "https://i.imgur.com/XiZc2eY.jpeg" },
+    { "date": "0528", "subject": "사문탐", "description": "수행평가", "image": "https://i.imgur.com/3ThWi4H.jpeg" },
+    { "date": "0526", "subject": "물리2", "description": "발표지 작성", "image": "https://i.imgur.com/0kyqHAE.jpeg" },
+    { "date": "0609", "subject": "생윤", "description": "수행평가", "image": "https://i.imgur.com/70ZuaN7.jpeg" },
+    { "date": "0526", "subject": "기하", "description": "수행평가", "image": "https://i.imgur.com/B4cQaQa.jpeg" },
+    { "date": "0526", "subject": "언매", "description": "형태소분석(사진1)", "image": "https://i.imgur.com/s7kTW9U.jpeg" },
+    { "date": "0526", "subject": "언매", "description": "형태소분석(사진2)", "image": "https://i.imgur.com/qn3xw3q.jpeg" },
+    { "date": "0526", "subject": "여행지리", "description": "랜선 여행", "image": "https://i.imgur.com/xkqwQp3.jpeg" }
     
     
     
