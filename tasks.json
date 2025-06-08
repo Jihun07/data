@@ -18,10 +18,13 @@
     { "date": "0526", "subject": "기하", "description": "수행평가", "image": "https://i.imgur.com/B4cQaQa.jpeg" },
     { "date": "0526", "subject": "언매", "description": "형태소분석(사진1)", "image": "https://i.imgur.com/s7kTW9U.jpeg" },
     { "date": "0526", "subject": "언매", "description": "형태소분석(사진2)", "image": "https://i.imgur.com/qn3xw3q.jpeg" },
-    { "date": "0526", "subject": "여행지리", "description": "랜선 여행", "image": "https://i.imgur.com/xkqwQp3.jpeg" }
+    { "date": "0526", "subject": "여행지리", "description": "랜선 여행", "image": "https://i.imgur.com/xkqwQp3.jpeg" },
     
-    
-    
+    { "date": "0609", "subject": "물리", "description": "논술", "image": "https://i.imgur.com/zI9LNhP.jpeg" },
+    { "date": "0616", "subject": "수사통", "description": "수행", "image": "https://i.imgur.com/GFbKyPa.png" },
+    { "date": "0609", "subject": "언매", "description": "매체비평", "image": "" },
+    { "date": "0609", "subject": "사문", "description": "수행", "image": "https://i.imgur.com/wmh81Bj.jpeg" },
+    { "date": "0609", "subject": "미적", "description": "탐구", "image": "https://i.imgur.com/cXyRl9d.jpeg" }
     
     
 
